@@ -19,7 +19,7 @@
 - 🔭 Currently an **ITI Trainee** – Open Source Track  
 - 👩‍💻 Passionate about **Full Stack Web Development**  
 - 📬 Reach me: **esraafoda237@gmail.com**  
-- 🚀 Check out my work: [GitHub Profile](https://github.com/esraa237)
+- 🚀 Check out my work: [GitHub Profile]([https://github.com/esraa237](https://github.com/esraa237?tab=repositories))
 
 ### 🧠 Courses Completed at ITI:
 - **Programming:** C, C++, Java, Python, Bash Scripting  
