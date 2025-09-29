@@ -43,7 +43,9 @@
   Designed a secure blog API with **JWT Auth, Role-based Access, Swagger Docs, and Search**.  
 
 ---
+
 <h3><b>Connect With Me On</b></h3>
+
 ---
 <p align="center">
   <a href="https://www.linkedin.com/in/esraafoda237/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" /></a>
